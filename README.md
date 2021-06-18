@@ -9,7 +9,9 @@ This image was made for anyone who wants to build with `maven` and also need `no
 - nodejs
 - node-gyp
 
-## Availible tags
+## Available tags
+- `3.6.3-openjdkjdk-11-nodejs-12`
+- `3.6.3-openjdkjdk-11-nodejs-11`
 - `3.6.3-jdk-11-nodejs-10`
 - `3.6.3-jdk-8-nodejs-10`
 
